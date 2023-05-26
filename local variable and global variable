@@ -1,0 +1,1 @@
+A global variable exists in the program for the entire time the program is executed. A local variable is created when the function is executed
