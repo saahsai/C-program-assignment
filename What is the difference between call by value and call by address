@@ -1,0 +1,1 @@
+The main difference between call by value and call by address is that, in call by value, the values of the actual parameters copy to the formal parameters of the function while in call by address, the addresses of the actual parameters copy to the formal parameter of the function
